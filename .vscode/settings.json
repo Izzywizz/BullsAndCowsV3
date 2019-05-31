@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"/Users/isfandyarali/Unreal/BullsAndCows/.git": true,
+		"/Users/isfandyarali/Unreal/BullsAndCows/.vscode": true,
+		"/Users/isfandyarali/Unreal/BullsAndCows/Content": true,
+		"/Users/isfandyarali/Unreal/BullsAndCows/Intermediate": true,
+		"/Users/isfandyarali/Unreal/BullsAndCows/Saved": true
+	}
+}
